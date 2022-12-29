@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 114aac229d6fec04f906d3324fc3dbb9, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  startMoves: 040000000300000006000000050000000500000007000000080000000c0000000f000000140000000a0000000d000000140000000f000000100000000a0000000b0000000e0000000c00000011000000
+  otherMoves: 0300000004000000030000000300000004000000030000000400000006000000070000000a00000004000000060000000600000006000000060000000600000004000000030000000300000003000000
+  materials:
+  - {fileID: 2100000, guid: 45f6ec8e65f643a4a858fe6fc1982241, type: 2}
+  - {fileID: 2100000, guid: 65f109175c645614e841a6db4763d6e6, type: 2}
+  - {fileID: 2100000, guid: e26e4672e2203e94db521a48fdef167e, type: 2}
+  - {fileID: 2100000, guid: b8c3d3615dad19342925b3dd8229aa7b, type: 2}
+  - {fileID: 2100000, guid: eff95cfa6a3a2df469a50cdd2eadffe4, type: 2}
+  - {fileID: 2100000, guid: dc60c63daa9958c47bff9963b8e51b9c, type: 2}
+  - {fileID: 2100000, guid: 170a13ae0b71e53429a62cf0b846ef7b, type: 2}
+  - {fileID: 2100000, guid: ca613dfcf057269499a173a537dcb554, type: 2}
+  - {fileID: 2100000, guid: 9c2aa16bb27fcf445980c090021e6b5f, type: 2}
+  - {fileID: 2100000, guid: 96fb7b6edb5d8a64f9d7c42dbb216e8b, type: 2}
+  - {fileID: 2100000, guid: 7bb3dec8be35d90438c2478c225bbfc9, type: 2}
+  - {fileID: 2100000, guid: 85f975a43340c36408f4f20396b533f4, type: 2}
+  - {fileID: 2100000, guid: e417ecf77b8b2c34db6ce1089ede682a, type: 2}
+  - {fileID: 2100000, guid: dcff4b5ea34d7da488456bdaeb07eba7, type: 2}
+  - {fileID: 2100000, guid: 2f00345faf241a54e8cba8616e1fb1e0, type: 2}
+  - {fileID: 2100000, guid: 9275e3f750cf5d749b58d8f33ebe4e3a, type: 2}
+  - {fileID: 2100000, guid: 71eff94022a929f40bf53f33db578135, type: 2}
+  - {fileID: 2100000, guid: da4b89034872ae347b6bac96dc9fb1b2, type: 2}
+  - {fileID: 2100000, guid: a8eae9bbe62492244a46a6b8454e5e07, type: 2}
+  - {fileID: 2100000, guid: 9c2aa16bb27fcf445980c090021e6b5f, type: 2}
+  cameraSize:
+  - 5
+  - 5
+  - 7
+  - 5
+  - 5
+  - 5
+  - 7
+  - 7.5
+  - 8
+  - 8
+  - 7
+  - 7.5
+  - 8
+  - 8.5
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
